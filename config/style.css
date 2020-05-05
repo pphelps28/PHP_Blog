@@ -1,0 +1,17 @@
+.align {
+    display: flex;
+    justify-content: start;
+}
+
+.align>.nav-items {
+    margin-right: 10px;
+}
+
+#edit-delete {
+    display: flex;
+    margin-right: 10px;
+}
+
+#edit-delete>a {
+    margin-right: 10px;
+}
